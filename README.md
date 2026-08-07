@@ -6,10 +6,12 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhruva106/LEETCODE/tree/master/0001-two-sum) |
 | [1920-build-array-from-permutation](https://github.com/Dhruva106/LEETCODE/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Dhruva106/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Dhruva106/LEETCODE/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Dhruva106/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
