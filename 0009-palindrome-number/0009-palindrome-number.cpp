@@ -1,0 +1,21 @@
+class Solution {
+public:
+    bool isPalindrome(int x) {
+        
+        // Negative numbers are not palindromes
+        if (x < 0) {
+            return false;
+        }
+
+        int original = x;
+        long long reversed = 0;
+
+        while (x > 0) {
+            int lastdigit = x % 10;
+            reversed = reversed * 10 + lastdigit;
+            x = x / 10;
+        }
+
+        return original == reversed;
+    }
+};
