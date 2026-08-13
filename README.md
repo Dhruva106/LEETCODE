@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhruva106/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Dhruva106/LEETCODE/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/Dhruva106/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruva106/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Dhruva106/LEETCODE/tree/master/0027-remove-element) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
 |  |
