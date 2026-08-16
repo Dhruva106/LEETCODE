@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Dhruva106/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhruva106/LEETCODE/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Dhruva106/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dhruva106/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
@@ -33,11 +34,13 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhruva106/LEETCODE/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Dhruva106/LEETCODE/tree/master/0283-move-zeroes) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 ## Matrix
 |  |
