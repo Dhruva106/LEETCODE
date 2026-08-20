@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhruva106/LEETCODE/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Dhruva106/LEETCODE/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Dhruva106/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Dhruva106/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
@@ -59,4 +60,8 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Dhruva106/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Dhruva106/LEETCODE/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Dhruva106/LEETCODE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
