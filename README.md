@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/Dhruva106/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dhruva106/LEETCODE/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Dhruva106/LEETCODE/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Dhruva106/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Dhruva106/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruva106/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhruva106/LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Dhruva106/LEETCODE/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Dhruva106/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,12 +43,14 @@
 | [0125-valid-palindrome](https://github.com/Dhruva106/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Dhruva106/LEETCODE/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dhruva106/LEETCODE/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Dhruva106/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhruva106/LEETCODE/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/Dhruva106/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 ## Matrix
 |  |
@@ -80,4 +84,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhruva106/LEETCODE/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Dhruva106/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
