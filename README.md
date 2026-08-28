@@ -25,6 +25,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Dhruva106/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Dhruva106/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dhruva106/LEETCODE/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -64,6 +65,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Dhruva106/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dhruva106/LEETCODE/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Dhruva106/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruva106/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -71,6 +73,7 @@
 | [0058-length-of-last-word](https://github.com/Dhruva106/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Dhruva106/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Dhruva106/LEETCODE/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Dhruva106/LEETCODE/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
