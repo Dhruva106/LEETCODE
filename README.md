@@ -15,6 +15,7 @@
 | [0485-max-consecutive-ones](https://github.com/Dhruva106/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruva106/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhruva106/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Dhruva106/LEETCODE/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Dhruva106/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhruva106/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -34,6 +35,7 @@
 | [0001-two-sum](https://github.com/Dhruva106/LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Dhruva106/LEETCODE/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruva106/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhruva106/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0169-majority-element](https://github.com/Dhruva106/LEETCODE/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruva106/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhruva106/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -102,4 +105,8 @@
 |  |
 | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhruva106/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhruva106/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
