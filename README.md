@@ -20,6 +20,7 @@
 | [1470-shuffle-the-array](https://github.com/Dhruva106/LEETCODE/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Dhruva106/LEETCODE/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/Dhruva106/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
+| [1534-count-good-triplets](https://github.com/Dhruva106/LEETCODE/tree/master/1534-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/Dhruva106/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Dhruva106/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dhruva106/LEETCODE/tree/master/1929-concatenation-of-array) |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhruva106/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1534-count-good-triplets](https://github.com/Dhruva106/LEETCODE/tree/master/1534-count-good-triplets) |
 <!---LeetCode Topics End-->
