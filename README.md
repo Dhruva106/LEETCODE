@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Dhruva106/LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Dhruva106/LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Dhruva106/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dhruva106/LEETCODE/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruva106/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Dhruva106/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Dhruva106/LEETCODE/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Dhruva106/LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Dhruva106/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruva106/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhruva106/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
@@ -57,6 +59,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dhruva106/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhruva106/LEETCODE/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Dhruva106/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhruva106/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/Dhruva106/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Dhruva106/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
