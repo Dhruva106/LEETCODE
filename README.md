@@ -25,6 +25,7 @@
 | [1672-richest-customer-wealth](https://github.com/Dhruva106/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Dhruva106/LEETCODE/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Dhruva106/LEETCODE/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dhruva106/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0009-palindrome-number](https://github.com/Dhruva106/LEETCODE/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Dhruva106/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruva106/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dhruva106/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
