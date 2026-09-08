@@ -77,6 +77,7 @@
 | [0009-palindrome-number](https://github.com/Dhruva106/LEETCODE/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/Dhruva106/LEETCODE/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Dhruva106/LEETCODE/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/Dhruva106/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dhruva106/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dhruva106/LEETCODE/tree/master/0136-single-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Dhruva106/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
